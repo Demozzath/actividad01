@@ -8,6 +8,10 @@
         <title>JSP Page</title>
     </head>
     <body>
-        <h1>Hello World!</h1>
+        <div>
+        <h1>Actividad calificada 01</h1>
+        <p><b>Nombre:</b> Abel Sandoval</p>
+        <p><b>Sección</b> B4-22- </p>
+        </div>
     </body>
 </html>
